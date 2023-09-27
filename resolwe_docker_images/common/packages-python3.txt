@@ -74,7 +74,7 @@ openpyxl==3.0.9 --hash=sha256:8f3b11bd896a95468a4ab162fc4fcd260d46157155d1f8bfaa
 et_xmlfile==1.1.0 --hash=sha256:a2ba85d1d6a74ef63837eed693bcb89c3f752169b0e3e7ae5b16ca5e1b3deada
 
 # Bioservices dependencies.
-gevent==21.1.2 --hash=sha256:520cc2a029a9eef436e4e56b007af7859315cafa21937d43c1d5269f12f2c981
+gevent==23.9.1 --hash=sha256:d163d59f1be5a4c4efcdd13c2177baaf24aadf721fdf2e1af9ee54a998d160f5
 grequests==0.6.0 --hash=sha256:6eff964416021bb1dee4182a56cc2b551bfa42d37820e6aee6f2efa00d43a061
 itsdangerous==1.1.0 --hash=sha256:b12271b2047cb23eeb98c8b5622e2e5c5e9abd9784a153e9d8ef9cb4dd09d749
 requests-cache==0.6.3 --hash=sha256:6e28e461873415036ea383c2414691cf1164cb01391ad4c45b84b3ebf0fb9287
