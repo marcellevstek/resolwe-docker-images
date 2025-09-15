@@ -2,7 +2,7 @@ FROM public.ecr.aws/genialis/resolwebio/base:ubuntu-24.04-20250203
 
 LABEL maintainer="Resolwe Bioinformatics authors https://github.com/genialis/resolwe-bio"
 
-LABEL version="5.0.0"
+LABEL version="5.1.0"
 
 # Force matplotlib backend to a headless one.
 ENV MPLBACKEND="Agg"
