@@ -9,3 +9,4 @@ qorts
 samtools
 subread
 bwa-mem2
+bwa-kit

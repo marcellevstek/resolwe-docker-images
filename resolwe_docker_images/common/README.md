@@ -24,3 +24,4 @@ Included tools:
 * Subread (2.0.1)
 * Tabix (1.19)
 * makedb-walt (1.01)
+* bwa-kit (0.7.15)
