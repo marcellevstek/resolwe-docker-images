@@ -10,6 +10,7 @@ To update an existing image, you should make sure these steps are made:
 * [ ] (optionally) Bump `BASE_IMAGE` in `build.env`
 * [ ] Build your image locally to make sure it builds successfully
 * [ ] Validate the image by using it in a process (in i.e. `resolwe-bio`)
+* [ ] Validate that the versions of installed Debian packages are the same as specified in the README
 
 ## Creating a new image
 If you are creating a new Docker image (folder), you should follow at least these steps to successfully build and have your pull request approved:
